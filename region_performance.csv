@@ -1,0 +1,9 @@
+Destination_Region,Total_Shipments,Avg_Delivery_Time,Avg_Delay_Hours,Avg_Cost_USD,Avg_Distance_km,OnTime_Rate_Pct
+Central,418,27.93,6.51,418.5,740.68,37.56
+East,453,38.99,10.53,689.89,1160.44,32.67
+North,430,22.91,4.92,298.08,550.33,38.37
+Northeast,438,52.76,13.95,1078.94,1604.59,38.81
+Northwest,442,26.11,6.41,452.62,716.39,38.01
+South,464,44.19,11.54,722.63,1333.23,36.42
+Southeast,458,45.83,12.42,779.26,1436.64,34.5
+West,397,34.24,8.45,528.08,979.46,37.03

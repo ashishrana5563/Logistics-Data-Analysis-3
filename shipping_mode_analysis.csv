@@ -1,0 +1,6 @@
+Shipping_Mode,Total_Shipments,Avg_Delivery_Time,Median_Delivery_Time,Avg_Cost_USD,Avg_Distance_km,OnTime_Rate_Pct,Avg_Customer_Rating
+Air,725,23.29,17.76,1560.15,1089.88,21.66,3.79
+Express,694,28.5,23.94,822.38,1059.36,14.84,3.83
+Rail,696,31.87,26.83,239.49,1062.41,34.2,4.06
+Road,690,37.07,32.02,308.26,1056.52,44.2,4.07
+Sea,695,64.04,56.84,156.67,1097.89,68.92,4.2
